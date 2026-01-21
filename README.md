@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I’m Rushikesh Shinde<br><br>🚀 Full-Stack Software Engineer with hands-on experience in building responsive web applications, RESTful APIs, and scalable backend integrations. I focus on clean architecture, reusable components, and reliable client–server communication. I am an immediate joiner and actively open to new opportunities.<br><br>🔭 I’m currently working on<br><br>Client-based full-stack web projects using React.js, Node.js, Express.js, and Supabase<br><br>🌱 I’m currently learning<br><br>MERN Stack patterns<br><br>Next js<br><br>Backend <br><br>💬 Ask me about<br><br>React.js and frontend <br><br>RESTful APIs <br><br>Supabase integration<br><br>JavaScript fundamentals and SQL<br><br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, user-friendly web experiences—and I always review my code for edge cases before pushing to GitHub.<br><br>📫 Connect with me<br><br>LinkedIn: Rushikesh Shinde<br><br>GitHub: RushikeshShinde62<br><br>Portfolio: portfolio-rushikesh-shinde.netlify.app<br><br>Email: rushikeshshinde6200@gmail.com
+👋 Hi, I’m Rushikesh Shinde<br><br>🚀 ## 💫 About Me
+Full-Stack Software Engineer specializing in React, Node.js, and RESTful APIs.  
+Experienced in building scalable, responsive web applications with clean architecture and reusable components.  
+Immediate joiner, open to full-time and contract opportunities.
+<br><br>🔭 Working on full-stack client projects (React, Node, Supabase)<br><br>🌱 Learning MERN best practices and Next.js<br><br>💬 Ask me about React, APIs, Supabase, JavaScript, SQL<br><br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, user-friendly web experiences—and I always review my code for edge cases before pushing to GitHub.<br><br>📫 ## 📫 Connect with Me
+- LinkedIn: https://linkedin.com/in/rushikesh-shinde-linked-in
+- Portfolio: https://portfolio-rushikesh-shinde.netlify.app
+- Email: mailto:rushikeshshinde6200@gmail.com
+
 
 
 ## 🌐 Socials:
@@ -12,6 +20,16 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=RushikeshShinde62&theme=github_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RushikeshShinde62&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🚀 Featured Projects
+
+### 📝 Full-Stack To-Do App
+- React, Node.js, Express, Supabase
+- Authentication, CRUD, REST APIs
+
+### 🛍️ Gift Shop Web App
+- HTML, CSS, JavaScript, SQL
+- Product search, filtering, dynamic UI
+
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
