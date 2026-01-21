@@ -3,7 +3,7 @@
 🚀 Full-Stack Software Engineer specializing in React, Node.js, and RESTful APIs.  
 Experienced in building scalable, responsive web applications with clean architecture and reusable components.  
 Immediate joiner, open to full-time and contract opportunities.
-<br><br>🔭 Working on full-stack client projects (React, Node, Supabase)<br><br>🌱 Learning MERN best practices and Next.js<br><br>💬 Ask me about React, APIs, Supabase, JavaScript, SQL<br><br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, user-friendly web experiences—and I always review my code for edge cases before pushing to GitHub.<br><br>📫 ## 📫 Connect with Me
+<br><br>🔭 Working on full-stack client projects (React, Node, Supabase)<br>🌱 Learning MERN best practices and Next.js<br>💬 Ask me about React, APIs, Supabase, JavaScript, SQL<br>⚡ Fun fact<br><br>I enjoy turning complex requirements into clean, user-friendly web experiences—and I always review my code for edge cases before pushing to GitHub.<br><br>📫 Connect with Me
 - LinkedIn: https://linkedin.com/in/rushikesh-shinde-linked-in
 - Portfolio: https://portfolio-rushikesh-shinde.netlify.app
 - Email: mailto:rushikeshshinde6200@gmail.com
